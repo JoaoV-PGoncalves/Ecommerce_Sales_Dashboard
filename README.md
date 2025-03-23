@@ -1,4 +1,6 @@
 # Ecoomerce_Sales_Dashboard
+Link para projeto: https://app.powerbi.com/view?r=eyJrIjoiMjk3NGEzMTctNWEyZi00YWI1LWJhNDgtNTNjYWI5NWRlMTBmIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9
+
 Desafio:
 A Vidro&Decor enfrentava dificuldades estratégicas devido ao isolamento dos dados de vendas entre marketplaces. Como cada plataforma possuía seu próprio formato de relatório (com estrutura de colunas e formatações diferentes), uma análise estratégica era dificultada.
 
